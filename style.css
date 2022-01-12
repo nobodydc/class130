@@ -1,0 +1,42 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    color: crimson;
+}
+
+body{
+    background-size: cover;
+}
+
+.speed{
+    float: left;
+}
+
+.vol{
+   float: right; 
+}
+
+.speedimg, .volimg{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed1, #vol1{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.play{
+    font-size: 25px;
+        width: 130px;
+}
+
+canvas{
+    border: 5px solid grey;
+    border-radius: 20px;
+}
